@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnkoAndDialogs</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="annko_alert">Anko Alert</string>
+    <string name="email_hint">Email...</string>
+    <string name="password_hint">Password...</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="login_button">Login</string>
+</resources>
